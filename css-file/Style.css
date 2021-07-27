@@ -1,0 +1,63 @@
+body{
+    color: red;
+}
+
+ /* menu area style start */
+.logo-area{
+   margin-left: 30px;
+}
+.main-menu-area{
+    background-color: wheat;
+}
+.menu-style{
+    font-size: 20px;
+    color: white;
+}
+.ancorr-logo{
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+
+
+}
+.ancor{
+    color: rgba(40, 167, 145, 0.582);
+}
+.ancors{
+    color: black;
+}
+/* sub menu area style start */
+.submenu-item{
+    font-size: 18px;
+    
+
+}
+/* slider area style start */
+
+/* card style */
+.card-style:hover{
+    border: 1px solid tomato;
+    background-color:whitesmoke ;
+
+}
+
+/* footer style */
+.footer-ancor{
+    text-decoration: none;
+    color: brown;
+}
+.footer-logo-img{
+    font-size: 20px;
+}
+.footer-logo{
+    margin-left: 30px;
+    color:black;
+   
+
+}
+.icon{
+    font-size: 26px;
+    margin: 10px;
+    color: black;
+}
